@@ -1079,7 +1079,7 @@ preloader
   position: absolute;
   opacity: 0;
   height: 100%;
-  background-color: rgb(255, 152, 0);
+  background-color: rgb(255, 0, 0);
 }
 .mil-preloader.mil-hidden {
   pointer-events: none;
